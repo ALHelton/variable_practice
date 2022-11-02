@@ -12,3 +12,8 @@ num = 390480283
 bank_account = 0.01
 seconds_remaining = 4.34
 inches = 10.5
+
+# Booleans
+is_free_trial = true
+is_done = false
+is_tall = true
