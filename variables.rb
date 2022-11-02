@@ -17,3 +17,12 @@ inches = 10.5
 is_free_trial = true
 is_done = false
 is_tall = true
+
+# Reassigning Variables
+name = "John"
+place = "Paris, France"
+book_title = "Understanding Comics"
+
+puts "Hello world"
+puts "Wow that's cool"
+puts "Look out"
